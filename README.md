@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Harshit Nigam.
-- 👀 I’m interested in Technology 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...working on projects
+- 👀 Having an interest in technology is something I am passionate about.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on projects with peers.
 - 📫 How to reach me ...-ihnsep@gmail.com
-- 😄 Pronouns: ...
 
 
 <!---
