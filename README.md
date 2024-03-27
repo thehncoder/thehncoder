@@ -2,7 +2,7 @@
 - 👀 Having an interest in technology is something I am passionate about.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects with peers.
-- 📫 How to reach me ...-ihnsep@gmail.com
+- 📫 How to reach me - ihnsep@gmail.com
 
 
 <!---
