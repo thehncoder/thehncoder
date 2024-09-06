@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harshit Nigam.
 - 👀 Having an interest in technology is something I am passionate about.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m also learning web development ,DSA and other techstacks.
 - 💞️ I’m looking to collaborate on projects with peers.
-- 📫 How to reach me - ihnsep@gmail.com
+
 
 
 <!---
