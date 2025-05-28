@@ -36,8 +36,7 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" width="40" />
+
 </p>
 
 ---
