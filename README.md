@@ -24,7 +24,7 @@
 - 🔐 **Cybersecurity Enthusiast** with a passion for digital defense and ethical hacking  
 - 🕵️‍♂️ **OSINT, NMAP, Ethical Hacking, Cybersecurity**  
 - 🕵️‍♀️ **Investigated a real cybercrime** – hands-on with real-world incidents  
-- 💡 **Love Cybersecurity & DSA** (Data Structures & Algorithms)  
+- 💬 Love discussing DSA, cybersecurity, and tech with peers
 - 🤝 **Let's connect!**  
   [![LinkedIn](https://img.shields.io/badge/harshit--nigam--cs-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshit-nigam-cs/)
 
