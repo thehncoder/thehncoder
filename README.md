@@ -1,13 +1,11 @@
-<!-- Profile Header with Animated Banner -->
+<!-- Animated Name Floating at the Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;OSINT+%7C+NMAP+%7C+Ethical+Hacking;DSA+Lover+%F0%9F%94%A5;Let%27s+Connect+on+LinkedIn!&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Harshit+Nigam;Cybersecurity+Enthusiast;OSINT+%7C+NMAP+%7C+Ethical+Hacking;DSA+Lover+%F0%9F%94%A5;Let's+Connect+on+LinkedIn!&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Harshit Nigam</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="hacker gif" />
-</p>
+<h1 align="center">
+  <span>Hi 👋, I'm Harshit Nigam</span>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-nigam-cs/">
@@ -56,8 +54,6 @@
 
 ## ✨ Fun Fact
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" align="right" />
-
 - ☠️ “Cybersecurity is like a game of chess – always thinking one step ahead.”
 - 🚦 Always up for a challenge – CTFs, bug bounties, or new tech!
 
@@ -66,10 +62,6 @@
 ## 📫 Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/harshit-nigam-cs/)  
-- Email: <your-email@example.com> <!-- Replace with your actual email -->
+- Email: ihnsep@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1pA8YyUtQZcK1wF3Yr/giphy.gif" width="200" />
-</p>
