@@ -6,6 +6,7 @@
 <h1 align="center">
   <span>Hi 👋, I'm Harshit Nigam</span>
 </h1>
+![Profile views](https://komarev.com/ghpvc/?username=thehncoder)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-nigam-cs/">
