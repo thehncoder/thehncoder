@@ -1,12 +1,16 @@
 <!-- Animated Name Floating at the Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Harshit+Nigam;Cybersecurity+Enthusiast;OSINT+%7C+NMAP+%7C+Ethical+Hacking;DSA+Lover+%F0%9F%94%A5;Let's+Connect+on+LinkedIn!&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Harshit+Nigam;Cybersecurity+Enthusiast;OSINT+%7C+NMAP+%7C+Ethical+Hacking;DSA+Lover+%F0%9F%94%A5;Let's+Connect+on+LinkedIn!&center=true&width=5[...]
 </p>
 
 <h1 align="center">
   <span>Hi 👋, I'm Harshit Nigam</span>
 </h1>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thehncoder&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-nigam-cs/">
