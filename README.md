@@ -1,6 +1,6 @@
 <!-- Animated Name Floating at the Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;OSINT+%7C+NMAP+%7C+Ethical+Hacking;DSA+Lover+%F0%9F%94%A5;Let's+Connect+on+LinkedIn!&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;OSINT+%7C+NMAP+%7C+Ethical+Hacking;Let's+Connect+on+LinkedIn!&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 <p align="center">
