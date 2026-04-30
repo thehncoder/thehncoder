@@ -71,6 +71,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/harshit-nigam-cs/)  
 - Email: ihnsep@gmail.com
-- Contact: 9005128562
+
 
 ---
